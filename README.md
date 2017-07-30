@@ -39,3 +39,4 @@ x^a/x^b = x^a-b
 (xy)^a = x^a * y^b
 To get the inverse function, substitute y for f(x), solve for x in terms of y, and substitute f^−1(y) for x.
 x^b=a --> loga=b
+y^2 parabolas face the right and left
