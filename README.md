@@ -3,8 +3,8 @@ Topics:
 
 
 Cheats:
-Law of Cosines: c^2= a^2 + b^2 - 2abCosC
-Law of sines: sinA/opp  = sinB/(adj/hyp)
+Law of Cosines: c^2= a^2 + b^2 - 2abCosC(for saa)
+Law of sines: sinA/opp  = sinB/(adj/hyp)(for ssa)
 Area of Triangle= 0.5bh
 2 triangles make a rectangle
 all angles add up to 180*
@@ -40,3 +40,7 @@ x^a/x^b = x^a-b
 To get the inverse function, substitute y for f(x), solve for x in terms of y, and substitute f^−1(y) for x.
 x^b=a --> loga=b
 y^2 parabolas face the right and left
+to reflect across y-axis replace x with -x
+SA of Cone: Pir^2 + Pirs
+volume of a tetrahedron: (a^3)/6sqrt(2)
+Area of a Kite = (DiagA * DiagB)/2
